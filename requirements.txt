@@ -1,0 +1,6 @@
+streamlit
+langchain
+openai
+chromadb
+tiktoken
+pdfminer.six
